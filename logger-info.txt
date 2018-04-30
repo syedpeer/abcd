@@ -1,0 +1,18 @@
+ELA
+open source log managment
+greylog 
+thin provisioned
+Open source IDS (like SNORT)
+Suricati
+running on packet capture
+
+ATP solution
+Fortinet completed (advantage integration with Firewall Fortigate)
+LastLine
+Appliance needs to come from Dubai
+FireEye 
+10Micro
+
+file://QAFCOAD/IT Section$/IT Section Management/Staff Leave Plan/IT_Department_Annual_Leave_Plan_2018.xlsm
+
+
